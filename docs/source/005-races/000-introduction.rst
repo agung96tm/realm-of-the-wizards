@@ -11,3 +11,4 @@ Races
    004-gobres
    005-magimo
    006-bigmo
+   007-elvia

@@ -9,3 +9,4 @@ Academy
    002-classes/000-introduction
    003-teachers/000-introduction
    004-other-in-schools/000-introduction
+   005-clubs/000-introduction

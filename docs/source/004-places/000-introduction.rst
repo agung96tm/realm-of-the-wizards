@@ -13,3 +13,5 @@ Places
    006-forbidden-wirest
    007-anchor-mansion
    008-horrid-cave
+   009-amaz-bridge
+

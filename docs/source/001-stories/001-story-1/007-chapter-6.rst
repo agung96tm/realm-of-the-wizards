@@ -1,2 +1,2 @@
-Chapter 1: Pergi ke Dunia tak Dikenal
+Chapter 6: Kita sama! Kau, Aku, dan Mereka!
 ================================================================================================
